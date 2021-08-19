@@ -1,0 +1,13 @@
+{
+  "name": "brutalist",
+  "version": "1.0.0",
+  "description": "adedoyin's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+
+  },
+  "author": "doyin",
+  "license": "ISC"
+}
