@@ -9,11 +9,6 @@ a:visited {
   color: #909090;
 }
 
-a:active {
-  text-decoration: none;
-  color: white;
-}
-
 body {
   margin-left: 60px;
   margin-top: 20px;
